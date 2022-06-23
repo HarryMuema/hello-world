@@ -7,5 +7,7 @@ This repository contains a list of my project ideas that are yet to see the ligh
 				i.To-Do list project management.
 				ii.Online messanging.
           			iii.Contact and invoice management.
+				iv.Blog.
+				v.Android app.
      			
     
